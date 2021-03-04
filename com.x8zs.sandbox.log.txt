@@ -1,0 +1,2 @@
+2021-01-18 06:40:00 11577/11577 D/PretiumManager: [doLoadLocalStatusSync] from = onStoragePermissionGranted_loadLocalStatusSync, file = /storage/emulated/0/x8zs.sandbox/pretium, file not exist, use none
+
